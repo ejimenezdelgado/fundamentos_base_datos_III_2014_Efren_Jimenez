@@ -1,5 +1,3 @@
-use aerolinea
-
 --INSERTAR EN LA TABLA PILOTO
 INSERT INTO piloto VALUES('1111','Juan Perez',2000);
 INSERT INTO piloto VALUES('2222','Carlos Mora',5000);
